@@ -42,4 +42,4 @@ Each folder represents an isolated console-based project focused on one or more 
 
 ## 👨‍💻 Author:
 Diego Melo Bezerra dos Santos
-🔗 github.com/SEU_USUARIO
+🔗 github.com/diegobrsantosdev
