@@ -39,3 +39,7 @@ Each folder represents an isolated console-based project focused on one or more 
 ---
 
 > Each folder contains an individual application focused on reinforcing core Java and OOP concepts. Explore them to follow my progress and practical experience.
+
+## 👨‍💻 Author:
+Diego Melo Bezerra dos Santos
+🔗 github.com/SEU_USUARIO
