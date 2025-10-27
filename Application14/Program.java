@@ -1,7 +1,6 @@
 package Application14;
 
-import Aplication2.Entities.Product;
-
+import Application14.entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
 
